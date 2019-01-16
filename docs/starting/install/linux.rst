@@ -17,7 +17,7 @@ To see which version of Python you have installed, open a command prompt and run
 
 .. code-block:: console
 
-    $ python2 --version
+    $ python3 --v
 
 However, with the growing popularity of Python 3, some distributions, such as
 Fedora, don't come with Python 2 pre-installed. You can install the ``python2``
